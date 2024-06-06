@@ -16,6 +16,28 @@ Traditional Programming: Often focuses on writing code to solve specific problem
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+Software Development Life Cycle (SDLC) Phases
+Planning: Determine the project's scope, feasibility, resources, schedule, and costs to create a detailed project plan.
+
+Design: Develop the system's architecture and detailed designs for components, user interfaces, and databases, ensuring alignment with requirements.
+
+Testing: Verify that the software works as intended, identifying and fixing defects through unit, integration, system, and acceptance testing.
+
+Maintenance: Provide ongoing support, fix issues, and make updates to ensure the software continues to meet user needs.
+
+Agile vs. Waterfall Models
+Waterfall Model:
+
+Sequential: Each phase must be completed before the next begins.
+Documentation-Driven: Emphasizes thorough documentation at each phase.
+Less Flexibility: Challenging to accommodate changes once later stages are reached.
+Predictability: Suitable for projects with well-defined requirements and minimal changes.
+Agile Model:
+
+Iterative and Incremental: Divides the project into small, manageable units called iterations or sprints.
+Flexible and Adaptive: Accommodates continuous feedback and evolving requirements.
+Collaborative: Emphasizes close team and stakeholder collaboration with regular meetings.
+Continuous Delivery: Delivers working software frequently, ensuring ongoing value to customers.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
