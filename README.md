@@ -84,6 +84,30 @@ Requirements Engineering is the process of defining, documenting, and maintainin
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
+Requirements Engineering
+Requirements Engineering is the process of defining, documenting, and maintaining software requirements to ensure the software meets stakeholders' needs.
+
+Process
+Elicitation: Gathering requirements from stakeholders.
+Analysis: Examining and prioritizing requirements.
+Specification: Documenting requirements clearly.
+Validation: Ensuring requirements reflect stakeholders' needs.
+Management: Tracking and managing changes to requirements.
+Importance
+Clarity: Provides a clear understanding of software functionality.
+Scope Management: Defines project scope, preventing scope creep.
+Risk Mitigation: Identifies issues early.
+Foundation: Basis for design, development, and testing.
+Software Design Principles
+SRP (Single Responsibility Principle): One class, one responsibility.
+OCP (Open/Closed Principle): Open for extension, closed for modification.
+LSP (Liskov Substitution Principle): Subclasses should replace base classes without issues.
+ISP (Interface Segregation Principle): Use specific interfaces instead of general ones.
+DIP (Dependency Inversion Principle): Depend on abstractions, not concrete classes.
+DRY (Don't Repeat Yourself): Avoid code duplication.
+KISS (Keep It Simple, Stupid): Keep designs simple.
+YAGNI (You Aren’t Gonna Need It): Only add functionality when necessary.
+
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
