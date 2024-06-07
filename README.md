@@ -42,6 +42,46 @@ Continuous Delivery: Delivers working software frequently, ensuring ongoing valu
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
 
+
+Agile vs. Waterfall Models of Software Development
+Key Differences
+Approach:
+
+Waterfall: Linear and sequential; each phase must be completed before the next one begins.
+Agile: Iterative and incremental; development is divided into small, manageable units called iterations or sprints.
+Flexibility:
+
+Waterfall: Less flexible; changes are difficult to incorporate once the project has progressed beyond the initial stages.
+Agile: Highly flexible; accommodates continuous feedback and evolving requirements throughout the development process.
+Documentation:
+
+Waterfall: Emphasizes comprehensive documentation at each phase, with detailed project plans and design documents.
+Agile: Focuses on minimal documentation, with more emphasis on working software and collaboration.
+Customer Involvement:
+
+Waterfall: Limited customer involvement after the requirements phase until the testing or deployment phase.
+Agile: Continuous customer involvement; frequent feedback and collaboration are integral to the process.
+Risk Management:
+
+Waterfall: Risks are identified and mitigated in the early stages; any issues discovered late can be costly to address.
+Agile: Continuous risk management; risks are identified and addressed in each iteration, making it easier to manage changes.
+Delivery of Software:
+
+Waterfall: Software is delivered as a single release at the end of the development cycle.
+Agile: Software is delivered in small, frequent releases, with each iteration producing a potentially shippable product increment.
+Scenarios for Preference
+Waterfall Model:
+
+
+*Regulated Environments: Suitable for projects in regulated industries where comprehensive documentation and formal processes are required (e.g., healthcare, aerospace).
+
+Agile Model:
+
+*Dynamic Requirements: Best for projects with evolving requirements or where the customer needs are expectedly to changing
+
+*Requirements Engineering
+Requirements Engineering is the process of defining, documenting, and maintaining software requirements. 
+
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
 
